@@ -1,0 +1,8 @@
+repo-*/
+rrepo-*/
+prepo*/
+proxy/requests.log
+proxy/__pycache__/
+out-*.txt
+rout-*.txt
+target/
